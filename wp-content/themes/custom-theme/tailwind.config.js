@@ -4,6 +4,8 @@
 
 export const content = ["./**/*.php"];
 export const theme = {
-  extend: {},
+  container: {
+    center: true,
+  },
 };
 export const plugins = [];
